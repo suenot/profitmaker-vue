@@ -13,9 +13,9 @@ export default [
     source: "",
     stock: undefined,
     pair: undefined,
-    channel: "default",
+    channel: "ccxt",
     channels: ["default", "kupi", "ccxt"],
-    demo: false,
+    demo: true,
     categories: ["Pairs"],
   }
 ]

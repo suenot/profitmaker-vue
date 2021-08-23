@@ -11,10 +11,10 @@ export default [
     author: "#core",
     authorLink: "https://github.com/kupi-network/kupi-terminal",
     source: "",
-    demo: false,
+    demo: true,
     stock: undefined,
     pair: undefined,
-    channel: "default",
+    channel: "ccxt",
     channels: ["default", "ccxt"],
     categories: ["Trades", "Candles"],
   }

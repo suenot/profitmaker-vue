@@ -14,7 +14,7 @@ export default [
     demo: true,
     stock: undefined,
     pair: undefined,
-    channel: "default",
+    channel: "ccxt",
     channels: ["default", "ccxt"],
     categories: ["Private api", "Orders"],
   }
