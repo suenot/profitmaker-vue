@@ -2,17 +2,11 @@
 
 # private
 /private/
-/react-client/private/
-/react-client/public/_img/
-/vue-client/private/
-/vue-client/public/_img/
-/server/private/
+/private/
+/public/_img/
 
 # user files
-packages/user/
-packages/express-server/user_components/
-packages/react-client/src/user_components/
-packages/vue-client/src/user_components/
+/src/user_components/
 
 # dependencies
 node_modules/
