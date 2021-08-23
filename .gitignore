@@ -1,0 +1,49 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# private
+/private/
+/react-client/private/
+/react-client/public/_img/
+/vue-client/private/
+/vue-client/public/_img/
+/server/private/
+
+# user files
+packages/user/
+packages/express-server/user_components/
+packages/react-client/src/user_components/
+packages/vue-client/src/user_components/
+
+# dependencies
+node_modules/
+
+# testing
+coverage/
+
+# production
+build/
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+package-lock.json
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+
+.vscode
+*.snap
+*.xlog
+.rocks/
+.rocks/
+.rocks
+__pycache__
+temp/
+tmp/
+npm-debug.log*
