@@ -1,6 +1,6 @@
 {
-  "name": "@kupi/vue-client",
-  "productName": "Kupi terminal",
+  "name": "@profitmaker/vue-client",
+  "productName": "Profitmaker terminal",
   "version": "0.3.0",
   "private": true,
   "scripts": {
@@ -13,7 +13,6 @@
   },
   "main": "background.js",
   "dependencies": {
-    "@kupi/express-server": "*",
     "axios": ">=0.21.1",
     "body-parser": "^1.18.2",
     "bson": "^1.0.4",

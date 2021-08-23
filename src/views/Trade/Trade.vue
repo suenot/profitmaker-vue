@@ -85,7 +85,7 @@ export default {
     max-width: 360px
     min-width: 360px
   .middle-column
-    flex: 1 0 auto
+    // flex: 1 0 auto
     display: flex
     flex-direction: column
     heigth: 100vh
