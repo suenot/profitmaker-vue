@@ -1,4 +1,9 @@
-# Kupi terminal: vue client
+# Profitmaker terminal: vue client 
+#### (used to named **Kupi terminal**)
+
+Demo: https://react.profitmaker.app/
+
+Main repository: https://github.com/suenot/kupi-terminal
 
 ## Project setup
 ```
